@@ -25,7 +25,7 @@ YAML file, re-running ingestion, and swapping connectors — not forking the cod
 ## 📐 Architecture
 
 <div align="center">
-  <img src="C:\Users\RUCHIKABAHATT\Documents\customer_support_copilot\architecture.png" alt="Support Copilot Architecture" width="100%">
+  <img src="architecture.png" alt="Support Copilot Architecture" width="100%">
 </div>
 
 <br>
